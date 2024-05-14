@@ -8,14 +8,14 @@ import Swipers from "./Swipers";
 import Compare from "./Compare";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import Landing from "./pages/Landing";
-import { Faq } from "./pages/Faq";
-import Events from "./pages/Events";
-import Quiz from "./pages/Quiz"
-import WorldMap from "./pages/WorldMap";
-import EnergyCalculator from "./pages/EnergyCalculator";
-import EthiopiaResouce from "./pages/EthiopiaResouce (2)";
-// import Calculate from "./pages/Calculate";
+import Landing from "./Pages/Landing";
+import { Faq } from "./Pages/Faq";
+import Events from "./Pages/Events";
+import Quiz from "./Pages/Quiz"
+import WorldMap from "./Pages/WorldMap";
+import EnergyCalculator from "./Pages/EnergyCalculator";
+import EthiopiaResouce from "./Pages/EthiopiaResouce (2)";
+// import Calculate from "./Pages/Calculate";
 // import Question from './components/Question'
 
 function App() {
