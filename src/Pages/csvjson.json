@@ -1,0 +1,502 @@
+{
+    "Africa": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0.4490656
+    },
+    "Africa (EI)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0.4490656
+    },
+    "Algeria": {
+        "Code": "DZA",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Argentina": {
+        "Code": "ARG",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 1.8668351
+    },
+    "Asia": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 2.124508
+    },
+    "Asia Pacific (EI)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 2.3939586
+    },
+    "Australia": {
+        "Code": "AUS",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Austria": {
+        "Code": "AUT",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Azerbaijan": {
+        "Code": "AZE",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Bangladesh": {
+        "Code": "BGD",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Belarus": {
+        "Code": "BLR",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 3.9526582
+    },
+    "Belgium": {
+        "Code": "BEL",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 16.073992
+    },
+    "Brazil": {
+        "Code": "BRA",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0.9778513
+    },
+    "Bulgaria": {
+        "Code": "BGR",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 17.755186
+    },
+    "CIS (EI)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 5.4293036
+    },
+    "Canada": {
+        "Code": "CAN",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 5.5176325
+    },
+    "Central America (EI)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Chile": {
+        "Code": "CHL",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "China": {
+        "Code": "CHN",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 2.3607652
+    },
+    "Colombia": {
+        "Code": "COL",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Croatia": {
+        "Code": "HRV",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Czechia": {
+        "Code": "CZE",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 16.716375
+    },
+    "Denmark": {
+        "Code": "DNK",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Eastern Africa (EI)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Ecuador": {
+        "Code": "ECU",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Egypt": {
+        "Code": "EGY",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Estonia": {
+        "Code": "EST",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Europe": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 8.500656
+    },
+    "Europe (EI)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 8.367635
+    },
+    "European Union (27)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 9.420978
+    },
+    "Finland": {
+        "Code": "FIN",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 19.328007
+    },
+    "France": {
+        "Code": "FRA",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 31.647501
+    },
+    "Germany": {
+        "Code": "DEU",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 2.541131
+    },
+    "Greece": {
+        "Code": "GRC",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "High-income countries": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 6.635682
+    },
+    "Hong Kong": {
+        "Code": "HKG",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Hungary": {
+        "Code": "HUN",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 14.8869095
+    },
+    "Iceland": {
+        "Code": "ISL",
+        "Year": 2007,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "India": {
+        "Code": "IND",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 1.1416044
+    },
+    "Indonesia": {
+        "Code": "IDN",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Iran": {
+        "Code": "IRN",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0.48648432
+    },
+    "Iraq": {
+        "Code": "IRQ",
+        "Year": 2019,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Ireland": {
+        "Code": "IRL",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Israel": {
+        "Code": "ISR",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Italy": {
+        "Code": "ITA",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Japan": {
+        "Code": "JPN",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 2.613455
+    },
+    "Kazakhstan": {
+        "Code": "KAZ",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Latvia": {
+        "Code": "LVA",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Lithuania": {
+        "Code": "LTU",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Lower-middle-income countries": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 1.4946496
+    },
+    "Luxembourg": {
+        "Code": "LUX",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Malaysia": {
+        "Code": "MYS",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Mexico": {
+        "Code": "MEX",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 1.1198983
+    },
+    "Middle Africa (EI)": {
+        "Code": "",
+        "Year": 2000,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Middle East (EI)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0.6138773
+    },
+    "Morocco": {
+        "Code": "MAR",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Netherlands": {
+        "Code": "NLD",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 1.0576086
+    },
+    "New Zealand": {
+        "Code": "NZL",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Non-OECD (EI)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 2.167875
+    },
+    "North America": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 6.7769775
+    },
+    "North America (EI)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 6.8973804
+    },
+    "North Macedonia": {
+        "Code": "MKD",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Norway": {
+        "Code": "NOR",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "OECD (EI)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 6.874678
+    },
+    "Oceania": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Oman": {
+        "Code": "OMN",
+        "Year": 1999,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Pakistan": {
+        "Code": "PAK",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 5.5715914
+    },
+    "Peru": {
+        "Code": "PER",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Philippines": {
+        "Code": "PHL",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Poland": {
+        "Code": "POL",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Portugal": {
+        "Code": "PRT",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Romania": {
+        "Code": "ROU",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 7.691569
+    },
+    "Russia": {
+        "Code": "RUS",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 6.973208
+    },
+    "Saudi Arabia": {
+        "Code": "SAU",
+        "Year": 1999,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Singapore": {
+        "Code": "SGP",
+        "Year": 1999,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Slovakia": {
+        "Code": "SVK",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 20.794628
+    },
+    "Slovenia": {
+        "Code": "SVN",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 19.236103
+    },
+    "South Africa": {
+        "Code": "ZAF",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 1.8875383
+    },
+    "South America": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0.7507598
+    },
+    "South Korea": {
+        "Code": "KOR",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 12.4773245
+    },
+    "South and Central America (EI)": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0.65895265
+    },
+    "Spain": {
+        "Code": "ESP",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 9.169866
+    },
+    "Sri Lanka": {
+        "Code": "LKA",
+        "Year": 2007,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Sweden": {
+        "Code": "SWE",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 20.397484
+    },
+    "Switzerland": {
+        "Code": "CHE",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 19.836622
+    },
+    "Taiwan": {
+        "Code": "TWN",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 4.47301
+    },
+    "Thailand": {
+        "Code": "THA",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Trinidad and Tobago": {
+        "Code": "TTO",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Turkey": {
+        "Code": "TUR",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Turkmenistan": {
+        "Code": "TKM",
+        "Year": 1996,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "USSR": {
+        "Code": "OWID_USS",
+        "Year": 1984,
+        "Nuclear (% equivalent primary energy)": 2.7346985
+    },
+    "Ukraine": {
+        "Code": "UKR",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 23.981655
+    },
+    "United Kingdom": {
+        "Code": "GBR",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 5.87602
+    },
+    "United States": {
+        "Code": "USA",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 7.626442
+    },
+    "Upper-middle-income countries": {
+        "Code": "",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 2.5224926
+    },
+    "Uzbekistan": {
+        "Code": "UZB",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Venezuela": {
+        "Code": "VEN",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Vietnam": {
+        "Code": "VNM",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "Western Africa (EI)": {
+        "Code": "",
+        "Year": 2015,
+        "Nuclear (% equivalent primary energy)": 0
+    },
+    "World": {
+        "Code": "OWID_WRL",
+        "Year": 2022,
+        "Nuclear (% equivalent primary energy)": 3.994536
+    }
+}
